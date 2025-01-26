@@ -1,0 +1,15 @@
+/* Reset margins and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body and HTML settings for full height and centering content */
+html, body {
+  height: 100%;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  font-family: Arial, sans-serif;
+}
