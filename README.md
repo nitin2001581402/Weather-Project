@@ -6,13 +6,9 @@ This **Weather App** is built with **React** and **Vite**. It allows users to se
 
 Below are the screenshots of the app showing the weather for different cities:
 
-1. **Mangaluru Weather**  
-   ![Mangaluru Weather](![Screenshot 2025-01-26 213103](https://github.com/user-attachments/assets/ff17fb0a-e28f-4672-aa83-d99d0c30bfd1)
-)
-
-2. **Shimla Weather**  
-   ![Shimla Weather](![Screenshot 2025-01-26 214155](https://github.com/user-attachments/assets/2a9e3d4e-970f-4860-af8e-685a3ce8c3fd)
-)
+| **Mangaluru Weather** | **Shimla Weather** |
+|----------------------|--------------------|
+| ![Mangaluru Weather](https://github.com/user-attachments/assets/ff17fb0a-e28f-4672-aa83-d99d0c30bfd1) | ![Shimla Weather](https://github.com/user-attachments/assets/2a9e3d4e-970f-4860-af8e-685a3ce8c3fd) |
 
 *Note: Replace the paths with your actual image paths.*
 
