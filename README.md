@@ -24,7 +24,8 @@ This is a **Weather App** built using the **MERN stack** (MongoDB, Express, Reac
 
 4. **Example: Mangaluru Weather**  
    If you enter the city **Mangaluru**, this is the screenshot of how the app looks when the weather details are displayed:  
-   ![Mangaluru Weather](C:/Users/nitin/Pictures/Screenshots/Screenshot%202025-01-26%20213103.png)
+   ![Mangaluru Weather](![Screenshot 2025-01-26 213103](https://github.com/user-attachments/assets/7c8051a9-6489-413e-be26-15c42d7c4e9b)
+)
 
 ## Technology Stack
 
